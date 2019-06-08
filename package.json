@@ -1,0 +1,31 @@
+{
+  "name": "hapi-typescript-starter",
+  "version": "1.0.0",
+  "description": "Hapi.js 18 with TS and webpack",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack"
+  },
+  "devDependencies": {
+    "nodemon-webpack-plugin": "^4.0.8",
+    "ts-loader": "^6.0.1",
+    "tslint": "^5.17.0",
+    "typescript": "^3.4.5",
+    "webpack": "^4.32.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-node-externals": "^1.7.2",
+    "@types/node": "^12.0.2",
+    "@types/hapi": "^18.0.2"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1",
+    "boom": "^7.3.0",
+    "hapi-cors": "^1.0.3",
+    "joi": "^14.3.1",
+    "mongojs": "^2.6.0",
+    "mongoose": "^5.5.11"
+  },
+  "keywords": ["hapi js", "webpack", "typescript", "node"],
+  "author": "kamilnaja",
+  "license": "ISC"
+}
