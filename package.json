@@ -23,7 +23,7 @@
     "hapi-cors": "^1.0.3",
     "joi": "^14.3.1",
     "mongojs": "^2.6.0",
-    "mongoose": "^5.5.11"
+    "mongoose": "^5.7.5"
   },
   "keywords": ["hapi js", "webpack", "typescript", "node"],
   "author": "kamilnaja",
